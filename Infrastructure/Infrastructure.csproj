@@ -9,6 +9,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.4" />
+    <PackageReference Include="StackExchange.Redis" Version="2.2.88" />
 </ItemGroup>
 <ItemGroup>
   <ProjectReference Include="..\Core\Core.csproj" />
